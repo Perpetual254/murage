@@ -1,0 +1,21 @@
+.Header{
+          background-image: linear-gradient(to right,#00008B,#ADD8E6);
+        }
+
+        #tab{
+          border: 1px solid red;
+          color: red;
+           background-color: white;
+            margin:auto;
+              }
+        .td{
+         border: 1px solid red;
+
+           }
+
+         .input{
+             border: none;
+             border-bottom: 1px solid black;
+
+         }
+
